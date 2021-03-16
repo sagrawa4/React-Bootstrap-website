@@ -1,13 +1,16 @@
 import React from "react";
 import './App.css';
 
-import MyNavbar from "../src/component/my-navbar/mynavbar.component.jsx";
+import MyNavbar from "./component/my-navbar/mynavbar.component.jsx";
+import MyCarousel from './component/my-carousel/mycarousel.component';
+import TitleMessage from './component/title-message/title-message.component';
 
 const App =() => {
   return (
     <div>
       <MyNavbar />
-    My Portfolio
+      <MyCarousel/>
+      <TitleMessage/>
     </div>
   );
 }
