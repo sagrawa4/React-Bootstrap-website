@@ -69,7 +69,7 @@ const Skills = () => {
           </Col>
 
             {/* Database */}
-
+            <Col md={4}>
             <Card className="focus mt-2 mb-2">
               <Card.Body>
                 <Card.Title className="text-center  card-title">Database</Card.Title>
@@ -100,6 +100,7 @@ const Skills = () => {
                 </Card.Text>
               </Card.Body>
             </Card>
+            </Col>
         </Row>
     </CardDeck>
     

@@ -18,13 +18,11 @@ const Experience = () => {
               </Card.Header>
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
-                  <Card.Title className="text-center">Associate Software Engineer</Card.Title>
+                  <Card.Title className="text-center">Full Stack Engineer</Card.Title>
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong className="body-title-style ">Full Stack Engineer</strong>
-                    <br />
-                    <strong>Technologies:</strong> React framework, HTML, CSS, 
+                    <strong>Technologies:</strong>React framework, HTML, CSS, Java
                     <br />
                     <strong>Duration:</strong> Dec 2015 - Dec 2018
                     <br/>
