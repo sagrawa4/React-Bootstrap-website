@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/React-Bootstrap-website/static/css/main.3e42bf81.chunk.css",
+    "main.js": "/React-Bootstrap-website/static/js/main.d681f7a7.chunk.js",
+    "main.js.map": "/React-Bootstrap-website/static/js/main.d681f7a7.chunk.js.map",
+    "runtime-main.js": "/React-Bootstrap-website/static/js/runtime-main.84821c84.js",
+    "runtime-main.js.map": "/React-Bootstrap-website/static/js/runtime-main.84821c84.js.map",
+    "static/js/2.dfe57c4b.chunk.js": "/React-Bootstrap-website/static/js/2.dfe57c4b.chunk.js",
+    "static/js/2.dfe57c4b.chunk.js.map": "/React-Bootstrap-website/static/js/2.dfe57c4b.chunk.js.map",
+    "index.html": "/React-Bootstrap-website/index.html",
+    "static/css/main.3e42bf81.chunk.css.map": "/React-Bootstrap-website/static/css/main.3e42bf81.chunk.css.map",
+    "static/js/2.dfe57c4b.chunk.js.LICENSE.txt": "/React-Bootstrap-website/static/js/2.dfe57c4b.chunk.js.LICENSE.txt",
+    "static/media/Shruti-designstyle-boots-m.f04c17b8.png": "/React-Bootstrap-website/static/media/Shruti-designstyle-boots-m.f04c17b8.png",
+    "static/media/Shruti_photo.bef5fa3e.jpg": "/React-Bootstrap-website/static/media/Shruti_photo.bef5fa3e.jpg",
+    "static/media/contact.style.css": "/React-Bootstrap-website/static/media/background.48c0b661.webp",
+    "static/media/bootstrap-4.997c463d.svg": "/React-Bootstrap-website/static/media/bootstrap-4.997c463d.svg",
+    "static/media/css3.8fba365c.svg": "/React-Bootstrap-website/static/media/css3.8fba365c.svg",
+    "static/media/express.75fff9be.svg": "/React-Bootstrap-website/static/media/express.75fff9be.svg",
+    "static/media/git-icon.c60b7e5a.svg": "/React-Bootstrap-website/static/media/git-icon.c60b7e5a.svg",
+    "static/media/github.740db6be.svg": "/React-Bootstrap-website/static/media/github.740db6be.svg",
+    "static/media/html-5.821ba738.svg": "/React-Bootstrap-website/static/media/html-5.821ba738.svg",
+    "static/media/java.5e8cb917.svg": "/React-Bootstrap-website/static/media/java.5e8cb917.svg",
+    "static/media/javascript.ba40d6a9.svg": "/React-Bootstrap-website/static/media/javascript.ba40d6a9.svg",
+    "static/media/mongodb.d89a6eeb.svg": "/React-Bootstrap-website/static/media/mongodb.d89a6eeb.svg",
+    "static/media/mssql.18f84630.svg": "/React-Bootstrap-website/static/media/mssql.18f84630.svg",
+    "static/media/react-bootstrap.534ba574.svg": "/React-Bootstrap-website/static/media/react-bootstrap.534ba574.svg",
+    "static/media/react.add74742.svg": "/React-Bootstrap-website/static/media/react.add74742.svg",
+    "static/media/slide1.14619b04.webp": "/React-Bootstrap-website/static/media/slide1.14619b04.webp",
+    "static/media/slide2.d58e7971.webp": "/React-Bootstrap-website/static/media/slide2.d58e7971.webp",
+    "static/media/slide3.ea32b5ab.webp": "/React-Bootstrap-website/static/media/slide3.ea32b5ab.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84821c84.js",
+    "static/js/2.dfe57c4b.chunk.js",
+    "static/css/main.3e42bf81.chunk.css",
+    "static/js/main.d681f7a7.chunk.js"
+  ]
+}
