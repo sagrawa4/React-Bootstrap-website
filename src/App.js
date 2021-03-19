@@ -8,29 +8,32 @@ import MyCarousel from './component/my-carousel/mycarousel.component';
 import TitleMessage from './component/title-message/title-message.component';
 import About from "./pages/about/about.component";
 import Container from 'react-bootstrap/Container';
+import Skills from './pages/skills/skills.component.jsx'
 
 const App =() => {
   return (
-    <div>
+    <div  className="App" style={{ position: "relative" }}>
       <MyNavbar />
       <MyCarousel/>
       <TitleMessage/>
       <div>
-        <Parallax
-          blur={{ min: -30, max: 30 }}
-          bgImage={require("./assets/img/parallex/background.webp")}
-          bgImageAlt=""
-          strength={-200}
-          > 
-        </Parallax>
+       
         <Container className="container-box rounded">
-        <Fade duration={500}>
-                <About />
-              </Fade>
+          <Fade duration={500}>
+            <About />
+          </Fade>
         </Container>
-        
+    
       </div>
-      
+
+     
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+          <Skills/>
+          </Fade>
+        </Container>
+      </div>
     </div>
   );
 }

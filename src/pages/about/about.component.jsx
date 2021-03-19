@@ -13,10 +13,10 @@ const About =() => {
             <div className="about">
             <h1 className="pt-3 text-center font-details pb-3">ABOUT ME</h1>
             <Container>
-                <Row>
+                <Row className="pt-3 pb-5 align-items-center">
                     <Col xs={12} md={6}>
-                        <Row>
-                        <Image src={profile} thumbnail />
+                        <Row className="justify-content-center mb-2 mr-2 ">
+                        <Image  className="profile justify-content-end" alt="profile"  src={profile} thumbnail />
                         </Row>
                     </Col>
                     <Col  xs={12} md={6}>
