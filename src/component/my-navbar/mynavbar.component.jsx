@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
-import Logo from "../../assets/icons/my_opentowork_logo.png";
+import Logo from "../../assets/icons/Untitled document-1.png";
 import  './mynavbar.style.css';
 const MyNavbar = () => {
     return (
