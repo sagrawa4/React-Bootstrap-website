@@ -5,6 +5,7 @@ import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
 import profile from "../../assets/img/profile/Shruti_photo.jpg";
 import Button from 'react-bootstrap/Button'
+import "./about.style.css";
 
 
 const About =() => {
